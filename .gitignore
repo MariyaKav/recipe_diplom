@@ -35,6 +35,7 @@ _MEI*
 venv/
 env/
 envs/
+.env
 virtualenv/
 pypenv/
 .pypenv/
